@@ -1,2 +1,2 @@
-# de-encoding
-A program for de- and encoding numbers in different number systems
+# Change between number systems
+With this python program you can de- and encode numbers in various number systems like binary, hexa and many more.
