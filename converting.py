@@ -28,10 +28,6 @@ import csv
     
     Yet you can only use the 
     base10-, base16-, base2-, base3-, base4-, base5-, base6-, base7-, base8-, base9-, base12-, base20-, base26- and base64-system
-    
-    If you have any problems or bugs please report them to tonihoevedes@gmail.com
-
-    All rights to Constantin Mussaeus
 """
 
 """
